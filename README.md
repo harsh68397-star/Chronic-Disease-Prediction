@@ -1,4 +1,4 @@
-# Multiple Chronic Disease Prediction Using ML Models
+# Chronic Disease (Disease) Prediction Using ML Models
 
 Predicts the likelihood of diabetes in patients using health records, comparing
 multiple classification models and addressing class imbalance and hidden missing data.
