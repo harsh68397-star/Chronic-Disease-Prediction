@@ -63,6 +63,6 @@ jupyter notebook notebooks/01_eda.ipynb
 
 ## Future improvements
 
-- Try additional models (XGBoost, SVM) and hyperparameter tuning
+- Try additional models (SVM) and hyperparameter tuning
 - Add more disease datasets (heart disease, kidney disease) for a true multi-disease system
 - Deploy as a simple web app (Streamlit) for interactive predictions
