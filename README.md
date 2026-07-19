@@ -6,7 +6,7 @@ multiple classification models and addressing class imbalance and hidden missing
 ## Dataset
 
 - Pima Indians Diabetes Dataset — 768 patient records, 8 health features + target outcome
-- Source: [add the Kaggle/UCI link you used]
+- Source: https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
 
 ## Data Cleaning
 
